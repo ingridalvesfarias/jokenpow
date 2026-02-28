@@ -27,8 +27,9 @@ Este projeto é uma implementação clássica do jogo Jokenpô (também conhecid
 
 
 ## 🔧 Jogue agora mesmo
-https://jokenpow-omega.vercel.app
+Acesse: https://jokenpow-omega.vercel.app
 
 
 📸 Captura de Tela
 
+<img src="img/imagem do projeto.png" alt="imagem do projeto">
